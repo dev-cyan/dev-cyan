@@ -6,6 +6,9 @@
 ## Project
 # 채팅프로그램
 개인 기여 - DB연결/채팅방 DB 구성/채팅 기능 구현
+사용 기술 - MFC/MySQL
+프로젝트 기간 2024.10~2024.12
+
 <!--
 **zzosoo/zzosoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
