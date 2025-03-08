@@ -5,7 +5,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#00599C"/></a>
 ## Project
 # 채팅프로그램
-개인 기여 - DB연결/채팅방 DB 구성/채팅 기능 구현
+개인 기여 - DB연결/채팅방 DB 구성/채팅 기능 구현 \n
 사용 기술 - MFC/MySQL
 프로젝트 기간 2024.10~2024.12
 
