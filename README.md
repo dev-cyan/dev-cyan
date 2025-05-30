@@ -1,8 +1,8 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-007ACC.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
-  <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>&nbsp
   <img src="https://img.shields.io/badge/Java-FC4C02.svg?style=for-the-badge&logo=&logoColor=#00599C"/>&nbsp
+  <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>&nbsp
 </div>
 
 <br>
