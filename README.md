@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/springboot-007ACC.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/Java-FC4C02.svg?style=for-the-badge&logo=&logoColor=#00599C"/>&nbsp
   <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>&nbsp
+  <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue" />&nbsp
 </div>
 
 <br>
@@ -11,7 +12,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue" />&nbsp
 </div>
 
 <br>
