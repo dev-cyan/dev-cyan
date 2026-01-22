@@ -39,3 +39,11 @@
     <img src="https://img.shields.io/badge/tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
 </div>
+
+#
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-cyan&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cyan&layout=compact&theme=cobalt" />
+</div>
+
