@@ -42,8 +42,24 @@
 
 #
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-cyan&show_icons=true&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cyan&layout=compact&theme=cobalt" />
-</div>
+<h2 align="center">🏅 Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=dev-cyan&show_icons=true&theme=cobalt"
+        width="450"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cyan&layout=compact&theme=cobalt"
+        width="350"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
